@@ -1,2 +1,3 @@
-# Unix-C-shell
-A Linux Shell Emulator
+to see shell
+1)make
+2)./shell
